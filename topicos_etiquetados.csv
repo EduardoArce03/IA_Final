@@ -1,0 +1,6 @@
+Cluster,Palabras_Frecuentes,Nombre_Topico
+0,"[('systems', 250), ('rs', 226), ('users', 186), ('information', 179), ('recommender', 169), ('user', 153), ('social', 136), ('based', 130), ('ﬁltering', 125), ('collaborative', 116)]",Sistemas de Recomendación
+1,"[('variational', 83), ('latent', 71), ('model', 65), ('space', 50), ('models', 48), ('neural', 47), ('deep', 41), ('fig', 39), ('j', 37), ('proposed', 36)]",Modelos Variacionales y Deep Learning
+2,"[('datasets', 240), ('number', 237), ('users', 216), ('samples', 207), ('dataset', 194), ('items', 181), ('generated', 151), ('gan', 142), ('synthetic', 133), ('user', 127)]",Generación de Datasets Sintéticos
+3,"[('group', 133), ('users', 61), ('mlp', 59), ('gmf', 58), ('model', 53), ('aggregation', 50), ('neural', 45), ('expertise', 32), ('user', 31), ('recommendation', 30)]",Modelos de Redes Neuronales para Recomendación
+4,"[('recommendations', 47), ('systems', 39), ('nmf', 38), ('results', 37), ('bemf', 37), ('pmf', 36), ('biasedmf', 36), ('model', 34), ('bnmf', 34), ('user', 33)]",Modelos de Factorización de Matrices
