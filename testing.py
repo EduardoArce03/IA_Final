@@ -259,5 +259,12 @@ print(df["Tópico_Descubierto"].value_counts())
 print("\n📌 Tópicos detectados con nombres interpretables:")
 for i, name in enumerate(topic_labels):
     print(f"Tópico {i}: {name}")
+    
+    
+    
+print("\n📌 Tópicos Descubiertos por HDBSCAN:"
+      f"\n{df['Tópico_Descubierto'].value_counts()}")
+print("\n📌 Vista previa de los datos:"
+      f"\n{df.head()}")
 
 
